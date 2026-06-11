@@ -55,7 +55,7 @@ const inselcamp: CampsiteConfig = {
 
   awards: [],
 
-  saison: { von: "Mai", bis: "September" },
+  saison: { von: "Termine", bis: "auf Anfrage" },
 
   hero: {
     aerial: { src: `${IMG}/gallery-ebc38745de.webp`, alt: "Inselcamping Unterach: Wiese, Attersee und Höllengebirge" },
@@ -116,7 +116,7 @@ const inselcamp: CampsiteConfig = {
       },
       {
         title: "Seekajak am Attersee",
-        text: "Fast mühelos über die glatte Wasserfläche gleiten und einsame Buchten erkunden — Schnupperkurse gibt es direkt in Unterach.",
+        text: "Fast mühelos über die glatte Wasserfläche gleiten und einsame Buchten erkunden — Schnupperkurse und Touren sind in der Region buchbar.",
         image: { src: `${IMG}/gallery-cdbf17d4f5.webp`, alt: "Seekajaktour auf dem Wasser bei Unterach am Attersee" },
       },
       {
@@ -182,8 +182,8 @@ const inselcamp: CampsiteConfig = {
     telHref: "tel:+4376658311",
     mail: "camping@inselcamp.at",
     facebook: "https://www.facebook.com/inselcamping.unterach",
-    adresse: "Unterburgau 37 · 4866 Unterach am Attersee · Österreich",
-    coords: { lat: 47.802399, lng: 13.473534 },
+    adresse: "Elisabethallee 3 · 4866 Unterach am Attersee · Österreich",
+    coords: { lat: 47.801841, lng: 13.482706 },
   },
 
   story: {
