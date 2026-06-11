@@ -166,7 +166,7 @@ const inselcamp: CampsiteConfig = {
     intro: "Sag uns Zeitraum und Personenzahl — wir melden uns persönlich mit deiner Verfügbarkeit am Inselcamp.",
     pricesArePlaceholder: true,
     priceNote:
-      "Richtpreise pro Nacht für 2 Personen inkl. Strom, zzgl. Ortstaxe — auf der Website sind keine Preise angegeben, bitte bestätige sie mit uns.",
+      "Richtpreise pro Nacht für 2 Personen inkl. Strom, zzgl. Ortstaxe — auf der Website sind keine Preise angegeben, bitte bestätige sie mit uns. Hinweis: Die Saison 2026 bleibt geschlossen — Informationen zur Wiedereröffnung unter inselcamp.at.",
     highlight: {
       title: "Eigenes Fischwasser",
       text: "Angeln ab 1. Mai direkt in der Seeache — die nötigen Infos gibt es an der Rezeption.",
