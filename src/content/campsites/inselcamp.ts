@@ -12,7 +12,6 @@ const inselcamp: CampsiteConfig = {
   see: "Attersee",
   regionLong: "Salzkammergut · Attersee · Oberösterreich",
 
-  theme: "schiefer",
   heroVariant: "center",
 
   claim: "Dein Sommer auf der Halbinsel am Attersee",
@@ -184,7 +183,7 @@ const inselcamp: CampsiteConfig = {
     mail: "camping@inselcamp.at",
     facebook: "https://www.facebook.com/inselcamping.unterach",
     adresse: "Unterburgau 37 · 4866 Unterach am Attersee · Österreich",
-    coords: { lat: 47.8018412, lng: 13.4827059 },
+    coords: { lat: 47.802399, lng: 13.473534 },
   },
 
   story: {
