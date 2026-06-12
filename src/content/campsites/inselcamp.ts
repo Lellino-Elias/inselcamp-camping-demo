@@ -183,7 +183,7 @@ const inselcamp: CampsiteConfig = {
     mail: "camping@inselcamp.at",
     facebook: "https://www.facebook.com/inselcamping.unterach",
     adresse: "Elisabethallee 3 · 4866 Unterach am Attersee · Österreich",
-    coords: { lat: 47.801841, lng: 13.482706 },
+    coords: { lat: 47.801789, lng: 13.482741 },
   },
 
   story: {
