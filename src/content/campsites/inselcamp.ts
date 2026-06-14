@@ -94,7 +94,7 @@ const inselcamp: CampsiteConfig = {
       {
         title: "Seekajaks zu mieten",
         text: "Direkt am Platz kannst du Seekajaks ausleihen und vom Ufer aus zu einer Runde über den ruhigen Attersee starten.",
-        image: { src: `${IMG}/gallery-bc8bc6f6a2.webp`, alt: "Seekajak auf dem Attersee bei Unterach" },
+        image: { src: `${IMG}/gallery-0124762f06.webp`, alt: "Zwei Paddler im Seekajak auf dem türkisen Attersee bei Unterach" },
       },
     ],
   },
