@@ -29,17 +29,17 @@ const inselcamp: CampsiteConfig = {
   pillars: [
     {
       title: "Mitten am Attersee",
-      text: "Eigene Badewiese mit Holzliegen, Badesteg und Umkleidekabinen — das glasklare Wasser des Attersees beginnt nur wenige Schritte hinter deinem Stellplatz.",
+      text: "Eigene Badewiese mit Holzliegen, Badesteg und Umkleidekabinen — das glasklare Attersee-Wasser ist nur wenige Schritte entfernt.",
       image: { src: `${IMG}/gallery-6448b7cc5f.webp`, alt: "Badewiese mit Badesteg am Attersee, Inselcamping Unterach" },
     },
     {
       title: "Park unter alten Bäumen",
-      text: "Eine großzügige, parkähnliche Anlage ohne enge Parzellen — viel Grün, schattenspendende Bäume und der Blick auf Schafberg und Höllengebirge.",
+      text: "Parkähnliche Anlage ohne enge Parzellen — viel Grün, Schatten und Bergblick auf Schafberg und Höllengebirge.",
       image: { src: `${IMG}/gallery-53033d34b8.webp`, alt: "Wiesenstellplätze unter Bäumen mit Bergblick am Inselcamping Unterach" },
     },
     {
       title: "Die Seeache als Insel",
-      text: "Die Seeache fließt mitten durch das Gelände und machte den Platz einst zur Insel — heute eine Halbinsel mit eigenem Fischwasser und kleiner Holzbrücke.",
+      text: "Die Seeache fließt mitten durch den Platz — heute eine Halbinsel mit eigenem Fischwasser und kleiner Holzbrücke.",
       image: { src: `${IMG}/gallery-291c0c91cb.webp`, alt: "Holzbrücke über die Seeache am Inselcamping Unterach" },
     },
   ],
@@ -68,7 +68,7 @@ const inselcamp: CampsiteConfig = {
     features: [
       {
         title: "100 Stellplätze ohne Parzellen",
-        text: "100 Touristen- und 40 Dauerstellplätze auf ebener Wiese, weitgehend ohne enge Parzellierung — nur die begehrten Seeplätze sind fix eingeteilt.",
+        text: "100 Touristenstellplätze auf ebener Wiese ohne enge Parzellierung — nur die begehrten Seeplätze sind fix eingeteilt.",
         image: { src: `${IMG}/gallery-9a758909d5.webp`, alt: "Wiesenstellplätze am Inselcamping Unterach" },
       },
       {
@@ -88,7 +88,7 @@ const inselcamp: CampsiteConfig = {
       },
       {
         title: "Eigenes Fischwasser",
-        text: "In der Seeache, die mitten durch den Platz fließt, hast du dein eigenes Fischwasser — Forelle, Laube, Näsling und Aal gehen hier an die Angel.",
+        text: "Die Seeache mitten durch den Platz ist dein eigenes Fischwasser — Forelle, Laube, Näsling und Aal gehen hier an die Angel.",
         image: { src: `${IMG}/gallery-8c002e3298.webp`, alt: "Forellen im glasklaren Wasser der Seeache am Inselcamping Unterach" },
       },
       {
@@ -106,7 +106,7 @@ const inselcamp: CampsiteConfig = {
     items: [
       {
         title: "Wandern zum Egelsee",
-        text: "Familienwanderung vorbei am Druckerhof zum stillen Egelsee, dazu der Themenweg Klimt am Attersee und Gipfeltouren bis auf den Schafberg.",
+        text: "Familienwanderung zum stillen Egelsee, Themenweg Klimt am Attersee und Gipfeltouren bis auf den Schafberg.",
         image: { src: `${IMG}/gallery-403c58f057.webp`, alt: "Der stille Egelsee bei Unterach am Attersee" },
       },
       {
@@ -116,7 +116,7 @@ const inselcamp: CampsiteConfig = {
       },
       {
         title: "Seekajak am Attersee",
-        text: "Fast mühelos über die glatte Wasserfläche gleiten und einsame Buchten erkunden — Schnupperkurse und Touren sind in der Region buchbar.",
+        text: "Mühelos über die glatte Wasserfläche gleiten und einsame Buchten erkunden — Kurse und Touren in der Region buchbar.",
         image: { src: `${IMG}/gallery-cdbf17d4f5.webp`, alt: "Seekajaktour auf dem Wasser bei Unterach am Attersee" },
       },
       {
